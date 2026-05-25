@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Stock Predictor",
+  "description": "Analyze recent stock performance using real-time search grounding and generate predictive modeling with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
